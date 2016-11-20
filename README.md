@@ -1,2 +1,2 @@
 # grownupqs
-GrownUp Questions
+Grown-Up Questions
